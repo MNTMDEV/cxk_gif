@@ -4,8 +4,8 @@
 #include"payload.h"
 using namespace std;
 
-#define MAX_I		33
-#define MAX_J		60
+#define MAX_I		27
+#define MAX_J		96
 #define SLEEP_US	50000
 const int FRAMES=694;
 const char* SEG_TABLE="#RMNHQODBWGPZ*@$C&98?32I1>!:-;. ";
